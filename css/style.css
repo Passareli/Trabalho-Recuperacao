@@ -1,0 +1,51 @@
+div.cabecalho figcaption{
+	color: white;
+	position: bottom; display: inline;
+	text-align: center;
+	text-decoration: none;
+
+}
+div.cabecalho{
+	background-color: #40B3DF;
+}
+
+table{
+	text-align: center;
+	font-weight: 400;
+	text-decoration: none;
+}
+div.mm {
+	font-family: 'Open Sans',sans-serif;
+	background-color: #7fc04c;
+}
+
+div.mm a{
+	color: white;
+	font-weight: 200;
+	text-decoration: none;
+}
+div.nn a{
+	color: black;
+	font-style:  
+	font-weight: 900;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+img.tuti {
+	position: absolute;
+	display: inline-block;
+	top: 520px;
+	left: 390px;
+	z-index: 1;
+}
+img.tuta {
+	position: absolute;
+	display: inline-block;
+	top: 520px;
+	left: 190px;
+	z-index: 1;
+}
+div.uu{
+	background-color: #444444;
+}
